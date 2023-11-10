@@ -20,7 +20,10 @@
 
 1. Clone [this](https://github.com/NikkitaTorres/template.git) repository to your desktop.
 2. Run "NPM install" in the console to dowload all dependencies (Babel, ESLint, Webpack).
-3. Run "NPM Start" in the console to launch the application.
+3. Build the project with webpack by using the "num run build" command in the console.
+4. Start a development server with the "npm run start" command in the console.
+5. Lint JS files in the src folder with "npm run lint".
+6. You can run tests with Jest using "npm run test".
 
 ## Known Bugs
 
